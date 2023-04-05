@@ -7,10 +7,12 @@
 - Up lên git báo cáo, code, tệp data và slide
 
 ## Phân tích yêu cầu
-- Đăng nhập tài khoản người quản lí
+- Đăng nhập, đăng xuất tài khoản người quản lí
 - Hiển thị các mặt hàng: bao gồm tên, mã, hình ảnh, giá nhập, giá bán, ngày hết hạn
+- Phần hiển thị hàng khi nhập xuất sẽ hiện tên sản phẩm, mã sản phẩm, số lượng, giá tiền
 - Nhập, xuất các vào mặt hàng
 - Lọc mặt hàng quá ngày hết hạn
 - Tổng tiền nhập, xuất
 - In ra hóa đơn mỗi khi mua 
+- Tìm kiếm theo mã và tên sản phẩm
 ## Dữ liệu nhập 
