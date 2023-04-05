@@ -7,5 +7,10 @@
 - Up lên git báo cáo, code, tệp data và slide
 
 ## Phân tích yêu cầu
-- Hiển thị các mặt hàng: bao gồm tên, mã, hình ảnh, giá nhập, giá bán
+- Đăng nhập tài khoản người quản lí
+- Hiển thị các mặt hàng: bao gồm tên, mã, hình ảnh, giá nhập, giá bán, ngày hết hạn
 - Nhập, xuất các vào mặt hàng
+- Lọc mặt hàng quá ngày hết hạn
+- Tổng tiền nhập, xuất
+- In ra hóa đơn mỗi khi mua 
+## Dữ liệu nhập 
