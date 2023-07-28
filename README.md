@@ -15,4 +15,3 @@
 - Tổng tiền nhập, xuất
 - In ra hóa đơn mỗi khi mua 
 - Tìm kiếm theo mã và tên sản phẩm
-## Dữ liệu nhập 
