@@ -33,6 +33,6 @@
                                                                                      |                            |
                                                                            5. Tạo bài đăng mới              6. Chỉnh sửa bài đăng
                                                                                      |                            |
-                                                                           7. Xóa bào đăng                  8. Quản lý tài khoản
+                                                                           7. Xóa bài đăng                  8. Quản lý tài khoản
 
        
