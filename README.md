@@ -15,3 +15,22 @@
 - Tổng tiền nhập, xuất
 - In ra hóa đơn mỗi khi mua 
 - Tìm kiếm theo mã và tên sản phẩm
+- 
+
+                                             ỨNG DỤNG QUẢN LÝ NHÀ TRỌ CHO THUÊ
+                                                            |
+                                  ------------------------------------------------------------------
+                                  |                                                                |
+                                GUEST                                                             USER
+                                  |                                                                |
+                  --------------------------------                                   ------------------------------
+                  |           USES CASES         |                                   |        USES CASES          |
+                  --------------------------------                                   ------------------------------
+                  |                              |                                   |                            |
+    1. Xem thông tin phòng trọ      2. Xem thông tin về ứng dụng            1. Đăng nhập/Đăng ký       2. Quản lý bài đăng
+                  |                                                                  |                            |
+    3. Gửi phản hồi tới User                                       3. Thêm/xóa/sửa thông tin bài đăng      4. Quản lý tài khoản
+                                                                                     |
+                                                                        5. Nhận phản hồi từ Guest
+
+       
