@@ -17,8 +17,8 @@
 - Tìm kiếm theo mã và tên sản phẩm
 - 
 
-                                             ỨNG DỤNG QUẢN LÝ NHÀ TRỌ CHO THUÊ
-                                                            |
+                                                    ỨNG DỤNG QUẢN LÝ NHÀ TRỌ CHO THUÊ
+                                                                   |
                                   ------------------------------------------------------------------
                                   |                                                                |
                                 GUEST                                                             USER
@@ -27,10 +27,12 @@
                   |           USES CASES         |                                   |        USES CASES          |
                   --------------------------------                                   ------------------------------
                   |                              |                                   |                            |
-    1. Xem thông tin phòng trọ      2. Xem thông tin về ứng dụng            1. Đăng nhập/Đăng ký       2. Quản lý bài đăng
+    1. Xem thông tin phòng trọ      2. Tìm kiếm phòng trọ                  1. Đăng nhập                     2. Đăng ký
                   |                                                                  |                            |
-    3. Gửi phản hồi tới User                                       3. Thêm/xóa/sửa thông tin bài đăng      4. Quản lý tài khoản
-                                                                                     |
-                                                                        5. Nhận phản hồi từ Guest
+    3. Xem thông tin ứng dụng                                              3. Quên mật khẩu                 4. Quản lý bài đăng      
+                                                                                     |                            |
+                                                                           5. Tạo bài đăng mới              6. Chỉnh sửa bài đăng
+                                                                                     |                            |
+                                                                           7. Xóa bào đăng                  8. Quản lý tài khoản
 
        
